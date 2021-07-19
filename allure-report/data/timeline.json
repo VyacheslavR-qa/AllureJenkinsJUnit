@@ -1,0 +1,25 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "e-voronuk-pc",
+    "children" : [ {
+      "name" : "6484@e-voronuk-pc.main(1)",
+      "children" : [ {
+        "name" : "Run",
+        "uid" : "50b5e76c43edd4d8",
+        "parentUid" : "f6b3d359454f17dc07fd87f72819b202",
+        "status" : "passed",
+        "time" : {
+          "start" : 1625775710771,
+          "stop" : 1625775721906,
+          "duration" : 11135
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "f6b3d359454f17dc07fd87f72819b202"
+    } ],
+    "uid" : "2655f3ff0c60039321c53dbe5b1d1989"
+  } ]
+}

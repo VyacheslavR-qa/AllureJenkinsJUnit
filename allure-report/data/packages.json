@@ -1,0 +1,21 @@
+{
+  "uid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
+  "name" : "packages",
+  "children" : [ {
+    "name" : "JunitExample",
+    "children" : [ {
+      "name" : "Run",
+      "uid" : "50b5e76c43edd4d8",
+      "parentUid" : "8ce4ffb93b54e4abe1d87be811bf8679",
+      "status" : "passed",
+      "time" : {
+        "start" : 1625775710771,
+        "stop" : 1625775721906,
+        "duration" : 11135
+      },
+      "flaky" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "8ce4ffb93b54e4abe1d87be811bf8679"
+  } ]
+}

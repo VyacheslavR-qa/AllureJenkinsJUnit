@@ -1,0 +1,29 @@
+{
+  "uid" : "98d3104e051c652961429bf95fa0b5d6",
+  "name" : "suites",
+  "children" : [ {
+    "name" : "Default Suite",
+    "children" : [ {
+      "name" : "AllureJenkinsJUnit",
+      "children" : [ {
+        "name" : "JunitExample",
+        "children" : [ {
+          "name" : "Run",
+          "uid" : "50b5e76c43edd4d8",
+          "parentUid" : "30a25bc80a3cb76a69de63a7b88162c2",
+          "status" : "passed",
+          "time" : {
+            "start" : 1625775710771,
+            "stop" : 1625775721906,
+            "duration" : 11135
+          },
+          "flaky" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "30a25bc80a3cb76a69de63a7b88162c2"
+      } ],
+      "uid" : "22b4e6cb6e65a6fa1d2ccf90f260d1e9"
+    } ],
+    "uid" : "8399274b4bb69ec8699907dd6ef7de4e"
+  } ]
+}
